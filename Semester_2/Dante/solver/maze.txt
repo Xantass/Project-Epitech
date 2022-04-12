@@ -1,0 +1,10 @@
+*********X
+*XXXXXXXXX
+*********X
+*XXXXX*XXX
+*****X***X
+*X*XXX*XXX
+*X***X***X
+*XXX*X*XXX
+***X*X***X
+XXXXXXXX**
